@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import os
 os.environ['SDL_RENDER_SCALE_QUALITY'] = '2' # Blending, blur.
-os.environ['SDL_VIDEO_X11_NET_WM_BYPASS_COMPOSITOR'] = '1' # Blending, blur.
+#os.environ['SDL_VIDEO_X11_NET_WM_BYPASS_COMPOSITOR'] = '1'
 
 import pygame
 import math
