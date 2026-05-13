@@ -62,9 +62,9 @@ See example levels.
 - Pygame 2.x
 
 ## How to Run
-1. Ensure your music is in the `music/` folder and sounds are in `sounds/`.
-2. Place your level files in the `levels/` folder as .txt files, see examples.
-3. Run: `python xyz.py`, Python 3.12+ recommended or use `run.sh`
+1. Ensure your music is in the `music/` folder and sounds are in `sounds/`
+2. Place your level files in the `levels/` folder as .txt files, see examples
+3. Run: `python xyz.py`, Python 3.12+ recommended or use `run.sh` or `run.bat`
 
 ## License
 This demo, including the maps and music and sounds, is open-source (MIT license).
