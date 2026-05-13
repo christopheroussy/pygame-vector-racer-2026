@@ -4,13 +4,18 @@ A high-speed, lo-fi pseudo-3D racer built with PyGame.
 
 This Python script implements a fast racing game using pygame that utilizes a custom 3D projection engine to render a wireframe/polygonal/vector world.
 
+![Vector Racer 2026 screenshot 1](screenshot1.png)
+
 The game features a "big curve" tile system for smooth track transitions, a barrel roll mechanic via camera roll manipulation, and various decorative 3D structures like geodesic domes, skyscrapers, and brutalist tunnels. It includes high-score persistence via a text file, dynamic motion blur based on ship velocity. Support of keyboard and xbox compatible controller.
-It is a bit fun to chase a highscore but do not expect too much.
+It is a bit fun to chase a speed highscore but do not expect too much.
+
+![Vector Racer 2026 screenshot 2](screenshot2.png)
 
 # Physics & Controls
 - Space to boost
 - Arrows or WASD to steer
 - Stop boosting right before curves!
+- Ctrl before jump to barrel roll
 - **Drift System:** The ship physics allow for lateral sliding, enabling players to "drift" through corners to maintain momentum.
 - **Verticality:** Players can utilize ramps (`r`) to jump between track segments or over voids.
 - **Joystick Support:** Fully optimized for Xbox/X-Input controllers.
